@@ -1,0 +1,38 @@
+*{
+    padding : 0;
+    margin : 0;
+    box-sizing: border-box;
+}
+
+
+.h1{
+    box-shadow: 0 0 15px darkblue;
+}
+
+body {
+    background-color : pink;
+}
+
+.card1{
+    background-color: red;
+    box-shadow: 0 0 15px purple;
+    
+}
+
+.card2{
+    background-color: red;
+    box-shadow: 0 0 15px purple;
+}
+
+
+
+.spinner{
+    top : 0;
+    left : 0;
+    width : 100%;
+    height : 100vh;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
